@@ -1,6 +1,6 @@
 # Backlog - Conception Générique
 
-- Analyse des Besoins
-- Diagrammes de cas d'utilisation
-- Diagrammes de classes
+- Analyse-technique
+- Diagrammes-cas-utilisation
+- Diagrammes-classe
 - Maquettes 
