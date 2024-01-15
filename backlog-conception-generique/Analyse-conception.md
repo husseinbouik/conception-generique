@@ -1,4 +1,6 @@
 # Analyse-conception
 
 ## Travail à faire
-- Realisation d'analyse-conception
+- Analyse technique
+- Diagramme de cas d'utilisation
+- Diagramme de classe
