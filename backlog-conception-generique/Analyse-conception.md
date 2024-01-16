@@ -2,9 +2,9 @@
 
 ## Travail à faire
 - Realisation d'analyse-conception
-  - Analyse technique
-  - Diagramme de cas d'utilisation
-  - Diagramme de classe
+  - Analyse-technique
+  - Diagramme-cas-utilisation
+  - Diagramme-classe
 
 ## Livrable
  - Fichier Markdown ([Analyse-conception.md](../Analyse-conception\Analyse-conception.md))
