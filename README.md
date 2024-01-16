@@ -1,4 +1,4 @@
-# conception-generique
+# conception-générique
 
 ## Backlog
 
