@@ -1,1 +1,7 @@
-# conception-generique
+# conception-générique
+
+## Backlog
+
+- Backlog 
+- Analyse-conception
+- Maquettes 
