@@ -13,7 +13,7 @@
 <img src="img/repository-pattern.png" alt="Alt text" width="100">
 
 
-### Repository Pattern
+### Architecture de l'application
 
 ![repository-pattern](./img/repository-pattern.png)
 
