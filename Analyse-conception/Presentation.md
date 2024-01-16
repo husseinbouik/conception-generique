@@ -4,15 +4,15 @@
 ![Logo](img/Presentation-rafiki.png)
 ## Analyse technique
 ### Technologies et outils
-<img src="img/adminlte.jpg" alt="Alt text" width="100">
-<img src="img/apache.png" alt="Alt text" width="100">
-<img src="img/laravel.png" alt="Alt text" width="100">
-<img src="img/myslq.png" alt="Alt text" width="100">
-<img src="img/php.png" alt="Alt text" width="100">
-<img src="img/Presentation-rafiki.png" alt="Alt text" width="100">
-<img src="img/repository-pattern.png" alt="Alt text" width="100">
-
-
+<div class="grid">
+    <img src="img/adminlte.jpg" alt="Alt text" width="100">
+    <img src="img/apache.png" alt="Alt text" width="100">
+    <img src="img/laravel.png" alt="Alt text" width="100">
+    <img src="img/myslq.png" alt="Alt text" width="100">
+    <img src="img/php.png" alt="Alt text" width="100">
+    <img src="img/Presentation-rafiki.png" alt="Alt text" width="100">
+    <img src="img/repository-pattern.png" alt="Alt text" width="100">
+</div>
 ### Architecture de l'application
 
 ![repository-pattern](./img/repository-pattern.png)
