@@ -13,6 +13,7 @@
     <img src="img/Presentation-rafiki.png" alt="Alt text" width="100">
     <img src="img/repository-pattern.png" alt="Alt text" width="100">
 </div>
+
 ### Architecture de l'application
 
 ![repository-pattern](./img/repository-pattern.png)
